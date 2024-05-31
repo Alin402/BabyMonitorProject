@@ -1,0 +1,85 @@
+.landing-view {
+    display: flex;
+    gap: 2rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.landing-card {
+    width: 20rem;
+    height: 15rem;
+    border-radius: 2rem;
+    background-color: #3a3e4044;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+}
+
+.landing-card:hover .dot {
+    background-color: #ffeb3b; /* Change to your desired color */
+    transform: scale(7); /* Example transformation */
+}
+
+.landing-card:hover .overlay-container {
+    opacity: 1;
+}
+
+.card-title {
+    font-weight: 700;
+    color: whitesmoke;
+    font-size: 2em;
+}
+
+.go-text {
+    color: #fcc93b;
+    font-size: 1.3em;
+}
+
+.go-container {
+    display: flex;
+    align-items: center;
+}
+
+.overlay-text {
+    color: whitesmoke;
+    font-size: 5em;
+}
+
+.overlay-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    opacity: 0;
+    transition: ease-out .2s;
+}
+
+.landing-card-top {
+    height: 70%;
+    padding: 1rem;
+    position: relative;
+}
+
+.landing-card-bottom {
+    height: 30%;
+    padding: 1rem;
+    display: flex;
+    justify-content: left;
+}
+
+.dot {
+    width: 7rem;
+    height: 7rem;
+    border-radius: 3rem;
+    position: absolute;
+    top: -3rem;
+    right: -3rem;
+    transition: ease-out .3s;
+}

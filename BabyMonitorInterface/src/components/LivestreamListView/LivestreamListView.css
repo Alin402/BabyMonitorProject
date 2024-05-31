@@ -1,0 +1,54 @@
+.livestream-list-view {
+    margin-top: 4.5rem;
+    padding: 1rem;
+}
+
+.table-display-baby-photo {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-size: cover;
+}
+
+.livestream-statistics {
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.sleep-states-container {
+    display: flex;
+    justify-content: space-between;
+    width: 17rem;
+    font-weight: 700;
+}
+
+.sleep-states-value {
+    background-color: #272c2b;
+    padding: 3px;
+    border-radius: 5px;
+    color: #fcc93b;
+}
+
+.sleep-and-emotional-state-bar {
+    width: 100%;
+    border-radius: 5rem;
+    display: flex;
+    height: 2rem;
+    padding-right: 1rem;
+}
+
+.segment {
+    height: 100%;
+    cursor: pointer;
+}
+
+.emotion-display-in-bar {
+    padding: .1rem .2rem;
+    background-color: #272c2b;
+    margin: .2rem;
+    color: #fcc93b;
+    text-align: center;
+    border-radius: 5px;
+}

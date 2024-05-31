@@ -1,0 +1,35 @@
+.monitor-list-view {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.monitor-list-view-container {
+    margin-top: 4.5rem;
+    padding: 1rem;
+}
+
+.monitor-list-view-title-container {
+    border-radius: 5px;
+    text-align: center;
+    color: #eb5e92;
+    display: inline;
+}
+
+.add-monitor-container {
+    background-color: #eb5e92;
+    padding: 1rem;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 700;
+    align-items: center;
+    transition: all .1s;
+    cursor: pointer;
+    transition: all .2s;
+}
+
+.add-monitor-container:hover {
+    background-color: #fcc93b;
+}

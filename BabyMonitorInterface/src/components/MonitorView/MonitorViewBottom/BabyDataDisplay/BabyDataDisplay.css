@@ -1,0 +1,20 @@
+.baby-data-display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.baby-properties {
+    padding: 0 1rem;
+    color: #eb5e92;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.baby-picture {
+    width: 5rem;
+    height: 5rem;
+    background-size: cover;
+    border-radius: 2.5rem;
+}

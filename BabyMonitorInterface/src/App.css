@@ -1,0 +1,13 @@
+.text_color_dark_button{
+    color: #eb5e92;
+}
+.vjs-tech {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.select {
+    color: white;
+}

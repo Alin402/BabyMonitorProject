@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="landing">
+    <div>
+        <p class="main-title">
+            Peace of Mind, Anytime, Anywhere
+        </p>
+
+        <p class="sub-title">
+            Keep track of your little one!
+        </p>
+    </div>
+    <div class="landing-bottom">
+        <nav class="mdc-list navbar" style="display: flex; justify-content: flex-end; padding: 10px">
+            <a class="mdc-list-item" href="/Auth/SignIn" style="background-color: #eb5e92;">
+                Log In &nbsp;<span class="material-symbols-outlined">start</span>
+            </a>
+            <a class="mdc-list-item" href="/Auth/SignUp" style="background-color: #fcc93b;">
+                Create account &nbsp;<span class="material-symbols-outlined">arrow_outward</span>
+            </a>
+        </nav>
+    </div>
+</div>
+
+<style>
+    .main-title {
+        color: #eb5e92;
+        font-size: 7rem;
+        font-family: Helvetica, Arial, sans-serif;
+        font-weight: bold;
+        margin: 20px;
+        padding: 20px;
+    }
+
+    .sub-title {
+        color: #eb5e92;
+        font-size: 3rem;
+        font-weight: lighter;
+        margin: 20px;
+        padding: 20px;
+    }
+    
+    .landing {
+        display:  flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height:  100%;
+    }
+    
+    .landing-bottom {
+        position: absolute;
+        bottom: 1rem;
+        right: 1rem;
+    }
+</style>

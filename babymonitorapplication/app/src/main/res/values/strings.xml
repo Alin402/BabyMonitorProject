@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BabyMonitorApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_main">Main\n\n</string>
+    <string name="title_register">Register\n</string>
+</resources>

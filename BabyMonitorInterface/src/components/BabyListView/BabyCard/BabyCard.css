@@ -1,0 +1,25 @@
+.baby-card {
+    display: flex;
+    align-items: center;
+    background-color: #eb5e92;
+    border-radius: 5px;
+}
+
+.baby-card-info {
+    padding: 0 2rem;
+    font-weight: 600;
+    color: #272c2b;
+}
+
+.baby-card-photo {
+    width: 5rem;
+    height: 5rem;
+    background-size: cover;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.baby-card-info-age {
+    font-weight: 400;
+    font-size: .8em;
+}

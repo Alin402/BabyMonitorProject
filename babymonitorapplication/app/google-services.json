@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236823505171",
+    "project_id": "babymonitornotifications-9c998",
+    "storage_bucket": "babymonitornotifications-9c998.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236823505171:android:fa139a106181561a1852e6",
+        "android_client_info": {
+          "package_name": "com.example.babymonitorapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-mcBdK2jWARZyAlUzpYnhCvB3nftxWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

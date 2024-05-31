@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "ES280d+JYGGXQ6hN4FL3wvaEJfJrf//W9kJjsdFbkEEKL0Se7OUjYRzM2DdJP06nozDE5Kjm73ydcD7VKl0LJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balan\\Desktop\\work\\IoT\\Baby monitor project\\BabyMonitorFileServer\\BabyMonitorFileServer\\BabyMonitorFileServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balan\\.nuget\\packages\\httpmultipartparser\\8.4.0\\httpmultipartparser.8.4.0.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\8.0.4\\microsoft.aspnetcore.webutilities.8.0.4.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.0\\microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\microsoft.net.http.headers\\8.0.4\\microsoft.net.http.headers.8.0.4.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.1\\microsoft.netcore.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.1.nupkg.sha512",
+    "C:\\Users\\balan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.1\\microsoft.aspnetcore.app.runtime.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

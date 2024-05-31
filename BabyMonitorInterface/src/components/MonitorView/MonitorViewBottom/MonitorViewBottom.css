@@ -1,0 +1,20 @@
+.monitor-view-bottom {
+    width: 100%;
+    height: 100%;
+}
+
+.baby-emotions-title {
+    color: #eb5e92;
+}
+
+.emotion-image {
+    width: 13rem;
+    height: 13rem;
+}
+
+.emotion-display {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}

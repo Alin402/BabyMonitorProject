@@ -1,0 +1,15 @@
+.account-view {
+    margin-top: 4.5rem;
+    padding: 1rem;
+}
+
+.account-details {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

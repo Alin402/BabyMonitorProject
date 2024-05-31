@@ -1,0 +1,72 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="auth-container">
+    <h2 style="color: #eb5e92;">Sign In:</h2>
+    <div class="form-item">
+        <label class="mdc-text-field mdc-text-field--outlined">
+            <span class="mdc-notched-outline">
+                <span style="border-color: #eb5e92" class="mdc-notched-outline__leading"></span>
+                <span style="border-color: #eb5e92" class="mdc-notched-outline__notch">
+                    <span style="border-color: #eb5e92; color: #eb5e92" class="mdc-floating-label" id="my-label-id">Email</span>
+                </span>
+                <span style="border-color: #eb5e92" class="mdc-notched-outline__trailing"></span>
+            </span>
+            <input autocomplete="off" id="Email" style="color: #eb5e92; background-color: #272c2b;" type="text" class="mdc-text-field__input" aria-labelledby="my-label-id">
+        </label>
+    </div>
+
+    <div class="form-item">
+        <label class="mdc-text-field mdc-text-field--outlined">
+            <span class="mdc-notched-outline">
+                <span style="border-color: #eb5e92" class="mdc-notched-outline__leading"></span>
+                <span style="border-color: #eb5e92" class="mdc-notched-outline__notch">
+                    <span style="border-color: #eb5e92; color: #eb5e92" class="mdc-floating-label" id="my-label-id">Password</span>
+                </span>
+                <span style="border-color: #eb5e92" class="mdc-notched-outline__trailing"></span>
+            </span>
+            <input autocomplete="off" id="Password" style="color: #eb5e92; background-color: #272c2b;" type="password" class="mdc-text-field__input" aria-labelledby="my-label-id">
+        </label>
+    </div>
+
+    <div>
+        <button id="Submit" class="submit-btn">
+            Authenticate &nbsp;<span class="material-symbols-outlined">start</span>
+        </button>
+    </div>
+</div>
+
+<script>
+    document.getElementById("Submit").addEventListener("click", async () => {
+        const emailElement = document.getElementById("Email");
+        const passwordElement = document.getElementById("Password");
+
+        const email = emailElement.value;
+        const password = passwordElement.value;
+
+        try {
+                const res = await axios.post("/api/users/authenticate",
+                {
+                    Email: email,
+                    Password: password
+                },
+                {
+                    headers: {
+                        "Content-Type": "application/json",
+                    }
+                })
+                if (res.status === 200) {
+                   window.location.href = "/Main";
+                }
+            } catch (error) {
+                Object.entries(error.response.data).forEach(([key, value]) => {
+                    value.forEach((validationError) => {
+                        showAlert(getAlert(ALERT_ERROR, validationError));
+                    })
+                });
+            }
+    });
+</script>

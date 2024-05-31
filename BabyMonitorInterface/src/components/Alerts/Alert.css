@@ -1,0 +1,31 @@
+.alert-container{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(90, 90, 90, 0.2);
+    backdrop-filter: blur(5px);
+    z-index: 1200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.alert{
+    padding: 1rem;
+    border-radius: 5px;
+    width: 30rem;
+    position: relative;
+    color: #272c2b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.close-icon{
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\bin\Release\net8.0\BabyMonitorApiBusiness.deps.json
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\bin\Release\net8.0\BabyMonitorApiBusiness.dll
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\bin\Release\net8.0\BabyMonitorApiBusiness.pdb
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\bin\Release\net8.0\BabyMonitorApiDataAccess.dll
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\bin\Release\net8.0\BabyMonitorApiDataAccess.pdb
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.csproj.AssemblyReference.cache
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.AssemblyInfoInputs.cache
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.AssemblyInfo.cs
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.csproj.CoreCompileInputs.cache
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.sourcelink.json
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.csproj.CopyComplete
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.dll
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\refint\BabyMonitorApiBusiness.dll
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\BabyMonitorApiBusiness.pdb
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiBusiness\obj\Release\net8.0\ref\BabyMonitorApiBusiness.dll

@@ -1,0 +1,20 @@
+.temperature-data{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.temperature-data-section{
+    height: 100%;
+    width: 33.33%;
+    display: flex;
+    color: #eb5e92;
+    justify-content: center;
+    align-items: center;
+    font-size: 2vw;
+}
+
+.temperature_data_middle {
+    border-left: solid 2px #eb5e92;
+    border-right: solid 2px #eb5e92;
+}

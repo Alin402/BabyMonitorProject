@@ -1,0 +1,12 @@
+.baby-list-view {
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.baby-list-view-container {
+    margin-top: 4.5rem;
+    padding: 1rem;
+}

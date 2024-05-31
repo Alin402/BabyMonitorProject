@@ -1,0 +1,15 @@
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\bin\Release\net8.0\BabyMonitorApiDataAccess.deps.json
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\bin\Release\net8.0\BabyMonitorApiDataAccess.runtimeconfig.json
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\bin\Release\net8.0\BabyMonitorApiDataAccess.dll
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\bin\Release\net8.0\BabyMonitorApiDataAccess.pdb
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.csproj.AssemblyReference.cache
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.AssemblyInfoInputs.cache
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.AssemblyInfo.cs
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.sourcelink.json
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.dll
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\refint\BabyMonitorApiDataAccess.dll
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.pdb
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\BabyMonitorApiDataAccess.genruntimeconfig.cache
+C:\Users\balan\Desktop\work\IoT\Baby monitor project\BabyMonitorApi\BabyMonitorApiDataAccess\obj\Release\net8.0\ref\BabyMonitorApiDataAccess.dll
