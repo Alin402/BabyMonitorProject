@@ -24,7 +24,7 @@ public class SaveLivestreamData
     public System.Timers.Timer? Timer { get; set; }
     public System.Timers.Timer? Timer2 { get; set; }
     public Dictionary<string, bool> NotificationsOptions { get; set; }
-    string registrationToken = "eiK1ym4XSy-y2tUG_i13fo:APA91bGnalxJrC3a7EwGwWgQNQbdvJu8qbHd4OQHBNw60aFs1rU1Dl_7eiOsJSBFvQizhK_MxZJJsf-BMWl_DW0PYKO_4op0GpHJC09-ycO5iAbTvilzYn2zDknTFaOsx8Megezfc7QA";
+    string registrationToken = "";
 
     private async void SendNotification(string title, string body)
     {
